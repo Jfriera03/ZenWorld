@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">ZenWord</string>
+
+    <!-- IMAGE DESC -->
+    <string name="help_desc">Help image</string>
+    <string name="medal_desc">Medal image</string>
+    <string name="shuffle_desc">Shuffle image</string>
+    <string name="new_game_desc">New Game image</string>
+
+    <!-- ERRORS -->
+    <string name="err_unknown">Unknown error </string>
+
+    <!-- USER TEXTS -->
+    <string name="hint_toast">Pistas %d</string>
+    <string name="words_found">Palabras encontradas %d de %d:</string>
+    <string name="hint_no_hints">Necsitas al menos 5 pistas</string>
+    <string name="no_more_words_hints">Ya se han enseñado todas las posibles letras iniciales</string>
+    <string name="word_not_found">La palabra %s no es correcta</string>
+    <string name="word_found_hidden">Has encontrado una palabra oculta</string>
+    <string name="word_found">Has encontrado una nueva palabra</string>
+    <string name="game_complete">Felicidades, has ganado la partida</string>
+    <string name="loading">Cargando diccionario…</string>
+</resources>

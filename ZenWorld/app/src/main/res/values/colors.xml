@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BASE COLORS -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- BASE COLORS-->
+    <color name="text_primary">#ECE2C6</color>
+    <color name="text_secondary">#ECE2C6</color>
+
+    <!-- ZEN COLORS -->
+    <color name="light_blue_primary">#2A17FC</color>
+    <color name="light_blue_secondary">#1795FC</color>
+
+    <color name="light_green_primary">#1EFF29</color>
+    <color name="light_green_secondary">#17FC70</color>
+
+    <color name="light_yellow_primary">#FFDB1F</color>
+    <color name="light_yellow_secondary">#FCF317</color>
+
+    <color name="light_lila_primary">#A92BFF</color>
+    <color name="light_lila_secondary">#EA17FC</color>
+</resources>

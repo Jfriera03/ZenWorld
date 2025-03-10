@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letters_container">240dp</dimen>
+    <dimen name="letters_circle">55dp</dimen>
+    <dimen name="hidden_letter">50dp</dimen>
+    
+    <dimen name="letter_textSize">32sp</dimen>
+
+    <dimen name="button_utils">60dp</dimen>
+</resources>
