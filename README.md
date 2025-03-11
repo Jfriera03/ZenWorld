@@ -1,5 +1,9 @@
 # ZenWord - Juego de Palabras en Android
 
+## Colaboradores
+- [Jfriera03](https://github.com/Jfriera03)
+- [Brouse13](https://github.com/Brouse13)
+
 ## Introducción
 ZenWord es un juego interactivo para Android que consiste en descubrir palabras ocultas a partir de un conjunto limitado de letras organizadas en forma circular. El juego está diseñado para mejorar la agilidad mental y el vocabulario en catalán.
 
